@@ -1,4 +1,4 @@
-NOTE:Read it CAAREFULLY Before Importing Project
+NOTE:Read it CAAREFULLY Before Importing Project  
 1.If this app Show any error whle installing the app then go to:  
    File->settings->Build,Excecution->Instan run->And Disable instant Run.  
 2. This App Has 4 Categories But as you can see this was Showing only two Tabs.Other two You will do by self.  
